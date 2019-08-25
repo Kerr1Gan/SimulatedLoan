@@ -1,2 +1,2 @@
-include ':app', ':materialstepper'
-rootProject.name='SimulatedLoan'
+include ':app', ':materialstepper', 'common-components'
+rootProject.name = 'SimulatedLoan'
